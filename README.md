@@ -17,7 +17,7 @@ pip install -r requirements.txt
 path: /yourpath/data/widerperson # dataset root dir
 train: train/images 
 val: val/images
-test:  
+test: test/image
 
 # Classes
 names:
