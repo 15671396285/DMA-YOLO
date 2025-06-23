@@ -11,7 +11,7 @@
 path: ultarlyticsPro1020/crowdhuman # dataset root dir
 train: images/train # train images (relative to 'path') 118287 images
 val: images/val # val images (relative to 'path') 5000 images
-test:  # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
+test:  imgages/test # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794
 
 # Classes
 names:
